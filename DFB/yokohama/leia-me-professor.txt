@@ -1,0 +1,2 @@
+texturas para cubemapping(environment map)
+os creditos do autor estao no readme.txt em ingles

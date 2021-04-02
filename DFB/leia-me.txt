@@ -1,0 +1,6 @@
+Os seguintes arquivos e pastas podem ser deletados sem problemas:
+
+-x64
+-DFB.vcxproj
+-DFB.vcxproj.user
+-vc140.pdb
